@@ -1,0 +1,22 @@
+[
+    {
+        "name": "API Crawlers",
+        "url": "http://crawlers.mysite.org/v1/route/id",
+        "port": 80
+    },
+    {
+        "name": "Website Home",
+        "url": "http://www.mysite.org",
+        "port": 80
+    },
+    {
+        "name": "Data API",
+        "url": "http://data-api/source/cms/content/12345.json",
+        "port": 80
+    },
+    {
+        "name": "Other API",
+        "url": "http://otherapi.mysite.org/product/?app_key=blahblahblah&id=123456",
+        "port": 80
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "name": "monitoring",
+  "author": {
+    "name": "ynori7"
+  },
+  "dependencies": {
+    "nodemailer": "2.*",
+    "console-stamp": "~0.2.1",
+    "async": "^2.0.0-rc.3"
+  }
+}

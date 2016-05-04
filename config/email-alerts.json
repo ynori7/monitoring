@@ -1,0 +1,9 @@
+{
+    "from": "no-reply@mysite.prg",
+    "to": "myemail@mysite.org",
+    "smtp": {
+        "host": "mailrelay.mysite.org",
+        "port": 25,
+        "secure": false
+    }
+}

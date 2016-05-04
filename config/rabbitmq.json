@@ -1,0 +1,21 @@
+[
+    {
+        "name": "My RabbitMQ",
+        "host": "http://internal-services.mysite.org",
+        "port": 15672,
+        "auth": {
+            "user": "username",
+            "password": "password"
+        },
+        "queues": [
+            {
+                "name": "queue.something.whatever",
+                "threshold": 3000
+            },
+            {
+                "name": "queue.somethingelse.whatever",
+                "threshold": 500
+            }
+        ]
+    }
+]
